@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var sharecore = require('../lib/cli/bitcore');
+sharecore();
