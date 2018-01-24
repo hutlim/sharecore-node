@@ -2,7 +2,7 @@
   "name": "sharecore-node",
   "description": "Full node with extended capabilities using Sharecore and Sharecoin Core",
   "author": "BitPay <dev@bitpay.com>",
-  "version": "3.1.11",
+  "version": "3.1.12",
   "main": "./index.js",
   "repository": "git://github.com/hutlim/sharecore-node.git",
   "homepage": "https://github.com/hutlim/sharecore-node",
